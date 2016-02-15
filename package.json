@@ -1,0 +1,22 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "hw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TorresAvila/npm-test.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "LuisTorres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TorresAvila/npm-test/issues"
+  },
+  "homepage": "https://github.com/TorresAvila/npm-test#readme"
+}
